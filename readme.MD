@@ -9,4 +9,6 @@
 
 ![imageherelmaooo](./READMEIMAGES/Animatione4.gif)
 
+in deze gif kan je zien dat ik een nieuwe scene in laad.
+
 https://github.com/forestfox08/ProgM1-4/blob/main/Assets%2FTutorials%2F4%2FScripts%2FScreenswitch.cs
