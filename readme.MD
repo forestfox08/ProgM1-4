@@ -2,6 +2,8 @@
 
 ![imageherefrfr](./READMEIMAGES/Animatione1.gif)
 
+https://github.com/forestfox08/ProgM1-4/blob/main/Assets/Tutorials/1/PlayerScore.cs
+
 # Tutorial 4
 
 ![imageherelmaooo](./READMEIMAGES/Animatione4.gif)
