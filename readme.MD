@@ -2,6 +2,8 @@
 
 ![imageherefrfr](./READMEIMAGES/Animatione1.gif)
 
+als je space drukt, + 10 coins. bij 50 coins is er een win message
+
 https://github.com/forestfox08/ProgM1-4/blob/main/Assets/Tutorials/1/PlayerScore.cs
 
 # Tutorial 4
