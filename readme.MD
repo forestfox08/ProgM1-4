@@ -13,6 +13,8 @@ https://github.com/forestfox08/ProgM1-4/blob/main/Assets/Tutorials/1/PlayerScore
 
 WASD + SPACE
 
+https://github.com/forestfox08/ProgM1-4/blob/main/Assets/Shared/Scripts/Movement.cs
+
 # Tutorial 4
 
 ![imageherelmaooo](./READMEIMAGES/Animatione4.gif)
