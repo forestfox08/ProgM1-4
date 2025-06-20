@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Movement2 : MonoBehaviour
 {
-    public scoreManager scoreManager;
+    [SerializeField]public ScoreManager scoreManager;
 
     public float moveSpeed = 5f;
     public float sensitivity = 5;
