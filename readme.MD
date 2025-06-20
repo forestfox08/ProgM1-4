@@ -22,3 +22,9 @@ https://github.com/forestfox08/ProgM1-4/blob/main/Assets/Shared/Scripts/Movement
 in deze gif kan je zien dat ik een nieuwe scene in laad.
 
 https://github.com/forestfox08/ProgM1-4/blob/main/Assets%2FTutorials%2F4%2FScripts%2FScreenswitch.cs
+
+# Tutorial 5
+
+![image](./READMEIMAGES/Animatione5.gif)
+
+in deze gif, opdracht 5...
