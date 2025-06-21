@@ -28,3 +28,5 @@ https://github.com/forestfox08/ProgM1-4/blob/main/Assets%2FTutorials%2F4%2FScrip
 ![image](./READMEIMAGES/Animatione5.gif)
 
 in deze gif, opdracht 5...
+
+https://github.com/forestfox08/ProgM1-4/tree/main/Assets/Tutorials/5
