@@ -30,3 +30,8 @@ https://github.com/forestfox08/ProgM1-4/blob/main/Assets%2FTutorials%2F4%2FScrip
 in deze gif, opdracht 5...
 
 https://github.com/forestfox08/ProgM1-4/tree/main/Assets/Tutorials/5
+
+
+# Tutorial 6
+
+- TBD
