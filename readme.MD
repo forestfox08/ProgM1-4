@@ -34,4 +34,9 @@ https://github.com/forestfox08/ProgM1-4/tree/main/Assets/Tutorials/5
 
 # Tutorial 6
 
-- TBD
+![image](./READMEIMAGES/Animatione6.gif)
+
+Opdracht 6
+
+https://github.com/forestfox08/ProgM1-4/tree/main/Assets/Tutorials/6
+
